@@ -17,10 +17,3 @@ Projeto prático desenvolvido durante a formação de Front-End da Alura, focado
 * Organização de boas práticas de tags HTML.
 * Estilização externa modularizada via arquivo `style.css`.
 
----
-
-## 💻 Como Visualizar Localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/evilynsouzaf/curso_frontend_alura.git](https://github.com/evilynsouzaf/curso_frontend_alura.git)
