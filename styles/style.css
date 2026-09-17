@@ -27,7 +27,7 @@ body{
 }
 .cabecalho_menu_link{
     font-family: var(--fonte-secundaria);
-    font-size: 18px;
+    font-size: 1.5rem;
     color: var(--cor-secundaria);
     text-decoration: none;
 }
@@ -44,14 +44,14 @@ body{
     gap: 35px;
 }
 .apresentacao_conteudo_titulo{
-    font-size: 32px;
-    font-family: 'Krona One', sans-serif;
+    font-size: 2.25rem;
+    font-family: var(--fonte-primaria);
 }
 .destaque{
     color: var(--cor-secundaria);
 }
 .apresentacao_conteudo_texto{
-    font-size: 20px;
+    font-size: 1.25rem;
     font-family: var(--fonte-secundaria);
 }
 .apresentacao_conteudo_botao{
@@ -62,7 +62,7 @@ body{
     gap: 32px;
 }
 .apresentacao_conteudo_subtitulo{
-    font-size: 20px;
+    font-size: 1.25rem;
     font-family: var(--fonte-primaria);
 }
 .apresentacao_conteudo_botao_link{
